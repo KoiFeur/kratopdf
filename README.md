@@ -1,4 +1,4 @@
-# kratopdf
+#  kratopdf
 
 Script that stack and export all kra in a /kra folder into a single pdf file
 
